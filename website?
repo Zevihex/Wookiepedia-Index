@@ -10,7 +10,13 @@
   <p style="font-family:'Lucida Sans Unicode'">
     This is going to be an organized catalog of Wookiepedia links for an easier layout and indexing for your Star Wars knowledge!
   </p>
-
+<h1>Creators:</h1>
+<ul>
+   <li>Ayden</li>
+   <li>Cylinder</li>
+   <li>TheNewYoriker</li>
+   <li>Zevihex</li>
+</ul>
  <style>
   a:link,a:visited {
    color: #5a008f;
