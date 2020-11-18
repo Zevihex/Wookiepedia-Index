@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html lang = "en">
+<head>
+  <!-- basic.html -->
+  <title>basic.html</title>
+  <meta charset = "UTF-8" />
+</head>
+<body>
+  <h1 style="font-family: 'Trebuchet MS'">Wookiepedia Catalog</h1>
+  <p style="font-family:'Lucida Sans Unicode'">
+    This is going to be an organized catalog of Wookiepedia links for an easier layout and indexing for your Star Wars knowledge!
+  </p>
+
+ <style>
+  a:link,a:visited {
+   color: #5a008f;
+   background-color: #87c0c5;
+   text-decoration: underline;
+   target-new: none;
+  }
+  a:hover {
+   color: #008f0e;
+   background-color: #FFFFC0;
+   text-decoration: underline;
+   target-new: none;
+  }
+ </style>
+</head>
+<body>
+ <!-- Text link tag - by www.rapidtables.com -->
+ <a href="https://starwars.fandom.com/wiki/Main_Page">Wookiepedia</a>
+</html>
